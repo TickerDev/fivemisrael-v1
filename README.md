@@ -19,3 +19,4 @@
 ```bash
     $ npm start
 ```
+חלק מהקוד נכתב על ידי [@xliel](https://github.com/xliel)
